@@ -1,6 +1,6 @@
 Saxtaxa Resolusi:
 - saya ingin konsisten buat konten
 - membuat template form untuk mengelola video
--  membuat forum diskusi
-- membuat merch shop
+- membuat forum diskusi
 - kolaborasi dengan lebih banyak expert
+- membuat vlog

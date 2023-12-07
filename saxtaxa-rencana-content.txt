@@ -3,6 +3,7 @@ RENCANA KONTEN SAXTAXA
 * ES6
 * Framework Javascript
  ^view
+ ^react
 -  fundamental data structure
 - PHP framefork
  ^larafel

@@ -2,7 +2,10 @@ RENCANA KONTEN SAXTAXA
 - Javascript
 * ES6
 * Framework Javascript
+ ^view
 -  fundamental data structure
 - PHP framefork
+ ^larafel
 - Interview
 - Vlogs
+- python
